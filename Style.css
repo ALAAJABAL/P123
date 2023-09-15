@@ -1,0 +1,29 @@
+#h3
+{
+    width: 100%;
+    margin: 0;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 30px;
+    color: white;
+}
+
+#p
+{
+    font-size: 19px;
+    color: white;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+#size
+{
+    font-size: 19px;
+    color: white;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+canvas
+{
+background-color: orangered;
+border-style: solid;
+border-radius: 30px;
+}
